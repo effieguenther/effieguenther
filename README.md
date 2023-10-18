@@ -1,18 +1,27 @@
-## My Essential Bookmarks &#128196;
+## Hello! &#128075; here's a little more about me
+
+&#128188; I'm currently searching for a job   
+&#128187; Until I find a full-time job, [I'm freelancing on Upwork](https://www.upwork.com/freelancers/~018f785b41a5272472)  
+&#128101; I'm open to collaborate on projects  
+&#128509; I'm located in New York, NY  
+
+If you have made it this far, you'll be able to see for yourself what my coding skills are. What you might not know yet is that I consider myself an organized person! Shortly into learning how to code, I realized I would need a serious bookmark bar to keep track of everything. I've assembled it here for you as a window into what and how I have learned &#128218;
+
+### My Bookmarks &#128196;
 
 <details>
 <summary>Coding Tools</summary>
 
-[Home | AskCodi](https://app.askcodi.com/home)  
-[Chat GPT](https://chat.openai.com/)  
-[Code Sandbox](https://codesandbox.io/dashboard/recent?workspace=70c2a9ba-139f-456c-958f-96c55a09dcfa)  
-[Snacks — Expo](https://leetcode.com/)  
-[LeetCode](https://leetcode.com/)  
-[Git Cheat Sheet](https://www.cloudways.com/blog/git-cheat-sheet/)  
-[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)  
-[Google Domains](https://domains.google.com/registrar/)  
-[Top 25 Algorithms Every Programmer Should Know](https://medium.com/techie-delight/top-25-algorithms-every-programmer-should-know/)  
-[Concepts | webpack](https://webpack.js.org/concepts/)  
+- [Home | AskCodi](https://app.askcodi.com/home)  
+- [Chat GPT](https://chat.openai.com/)  
+- [Code Sandbox](https://codesandbox.io/dashboard/recent?workspace=70c2a9ba-139f-456c-958f-96c55a09dcfa)  
+- [Snacks — Expo](https://leetcode.com/)  
+- [LeetCode](https://leetcode.com/)  
+- [Git Cheat Sheet](https://www.cloudways.com/blog/git-cheat-sheet/)  
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)  
+- [Google Domains](https://domains.google.com/registrar/)  
+- [Top 25 Algorithms Every Programmer Should Know](https://medium.com/techie-delight/top-25-algorithms-every-programmer-should-know/)  
+- [Concepts | webpack](https://webpack.js.org/concepts/)  
 </details>
 
 <details>
@@ -54,7 +63,7 @@
 </details>
 
 <details>
-<summary>CSS</summary
+<summary>CSS</summary>
 
 - [CSS Gradient Generator](https://cssgradient.io/)
 - [CSS Web Safe Fonts](https://www.w3schools.com/cssref/css_websafe_fonts.php)
@@ -84,19 +93,3 @@
 - [Mongoose Docs](https://mongoosejs.com/docs)
 - [Express 4.x - API Reference](https://expressjs.com/en/4x/api.html)
 </details>
-
-
-<!--
-**effieguenther/effieguenther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
