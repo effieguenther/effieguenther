@@ -5,7 +5,7 @@
 &#128101; I'm open to collaborate on projects  
 &#128509; I'm located in New York, NY  
 
-If you have made it this far, you'll be able to see for yourself what my coding skills are. What you might not know yet is that I consider myself an organized person! Shortly into learning how to code, I realized I would need a serious bookmark bar to keep track of everything. I've assembled it here for you as a window into what and how I have learned &#128218;
+Shortly into learning how to code, I realized I would need a serious bookmark bar to keep track of everything. I've assembled it here for you as a window into what I have learned &#128218;
 
 ### My Bookmarks &#128196;
 
