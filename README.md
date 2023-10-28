@@ -25,6 +25,16 @@ Shortly into learning how to code, I realized I would need a serious bookmark ba
 </details>
 
 <details>
+<summary>News/Trends</summary>
+
+- [CSS-Tricks](https://css-tricks.com/)
+- [JavaScript Weekly](https://javascriptweekly.com/)
+- [ADTMag](https://adtmag.com/pages/topic-pages/web-dev.aspx)
+- [Reddit/webdev](https://www.reddit.com/r/webdev/)
+- [AI News](https://www.artificialintelligence-news.com/)
+</details>
+
+<details>
 <summary>JavaScript</summary>
 
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
