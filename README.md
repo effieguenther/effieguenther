@@ -10,31 +10,6 @@ Shortly into learning how to code, I realized I would need a serious bookmark ba
 ### My Bookmarks &#128196;
 
 <details>
-<summary>Coding Tools</summary>
-
-- [Home | AskCodi](https://app.askcodi.com/home)  
-- [Chat GPT](https://chat.openai.com/)  
-- [Code Sandbox](https://codesandbox.io/dashboard/recent?workspace=70c2a9ba-139f-456c-958f-96c55a09dcfa)  
-- [Snacks — Expo](https://leetcode.com/)  
-- [LeetCode](https://leetcode.com/)  
-- [Git Cheat Sheet](https://www.cloudways.com/blog/git-cheat-sheet/)  
-- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)  
-- [Google Domains](https://domains.google.com/registrar/)  
-- [Top 25 Algorithms Every Programmer Should Know](https://medium.com/techie-delight/top-25-algorithms-every-programmer-should-know/)  
-- [Concepts | webpack](https://webpack.js.org/concepts/)  
-</details>
-
-<details>
-<summary>News/Trends</summary>
-
-- [CSS-Tricks](https://css-tricks.com/)
-- [JavaScript Weekly](https://javascriptweekly.com/)
-- [ADTMag](https://adtmag.com/pages/topic-pages/web-dev.aspx)
-- [Reddit/webdev](https://www.reddit.com/r/webdev/)
-- [AI News](https://www.artificialintelligence-news.com/)
-</details>
-
-<details>
 <summary>JavaScript</summary>
 
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
@@ -86,6 +61,15 @@ Shortly into learning how to code, I realized I would need a serious bookmark ba
 </details>
 
 <details>
+<summary>MongoDB + Node.js</summary>
+
+- [MongoDB Atlas | Login](https://account.mongodb.com/account/login?_ga=2.108026050.139150108.1696391600-873614769.1695124411)
+- [MongoDB Node.js driver docs](https://mongodb.github.io/node-mongodb-native/3.4/)
+- [Mongoose Docs](https://mongoosejs.com/docs)
+- [Express 4.x - API Reference](https://expressjs.com/en/4x/api.html)
+</details>
+
+<details>
 <summary>Firebase</summary>
 
 - [Firebase console](https://console.firebase.google.com/u/0/)
@@ -96,10 +80,26 @@ Shortly into learning how to code, I realized I would need a serious bookmark ba
 </details>
 
 <details>
-<summary>MongoDB + Node.js</summary>
+<summary>Coding Tools</summary>
 
-- [MongoDB Atlas | Login](https://account.mongodb.com/account/login?_ga=2.108026050.139150108.1696391600-873614769.1695124411)
-- [MongoDB Node.js driver docs](https://mongodb.github.io/node-mongodb-native/3.4/)
-- [Mongoose Docs](https://mongoosejs.com/docs)
-- [Express 4.x - API Reference](https://expressjs.com/en/4x/api.html)
+- [Home | AskCodi](https://app.askcodi.com/home)  
+- [Chat GPT](https://chat.openai.com/)  
+- [Code Sandbox](https://codesandbox.io/dashboard/recent?workspace=70c2a9ba-139f-456c-958f-96c55a09dcfa)  
+- [Snacks — Expo](https://leetcode.com/)  
+- [LeetCode](https://leetcode.com/)  
+- [Git Cheat Sheet](https://www.cloudways.com/blog/git-cheat-sheet/)  
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)  
+- [Google Domains](https://domains.google.com/registrar/)  
+- [Top 25 Algorithms Every Programmer Should Know](https://medium.com/techie-delight/top-25-algorithms-every-programmer-should-know/)  
+- [Concepts | webpack](https://webpack.js.org/concepts/)  
+</details>
+
+<details>
+<summary>News/Trends</summary>
+
+- [CSS-Tricks](https://css-tricks.com/)
+- [JavaScript Weekly](https://javascriptweekly.com/)
+- [ADTMag](https://adtmag.com/pages/topic-pages/web-dev.aspx)
+- [Reddit/webdev](https://www.reddit.com/r/webdev/)
+- [AI News](https://www.artificialintelligence-news.com/)
 </details>
