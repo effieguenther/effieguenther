@@ -5,6 +5,8 @@
 &#128101; I'm open to collaborate on projects  
 &#128509; I'm located in New York, NY  
 
+Check out my [portfolio](https://effie-guenther.com) here!
+
 Shortly into learning how to code, I realized I would need a serious bookmark bar to keep track of everything. I've assembled it here for you as a window into what I have learned &#128218;
 
 ### My Bookmarks &#128196;
